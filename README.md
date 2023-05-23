@@ -1,6 +1,7 @@
 
-https://capture.dropbox.com/9ZYiEPW6bptP38RL
+![image](https://github.com/hawkeyedatatsai/IMDB-Data/assets/126204698/b1e1c5f3-1f95-4586-927c-31fefffe7e68)
 
+[image credit](https://www.themoviedb.org/about/logos-attribution)
 # How to make a successful movie
  
 ## Business Problem
