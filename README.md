@@ -10,5 +10,28 @@ For this project, I produce a MySQL database on movies from a subset of IMDB's p
 ## Data Dictionary
 Refer to link [here](https://developer.imdb.com/non-commercial-datasets/)
 
+## Part 1 - IMDB Data Processing
+Download movie metadata from IMDB's public datasets.
+The datasets can be obtained here .
+Data dictionary for extracted datasets can be obtained here .
+Filter the necessary information that meets the stakeholder's requirements
+Files extracted include:
+title.basics.tsv.gz
+title.ratings.tsv.gz
+title.akas.tsv.gz
+title.crew.tsv.gz
+title.principals.tsv.gz
+name.basics.tsv.gz
+
+
+
+## Part 2 - Extracting TMDB Data
+Extract financial data and MPAA rating for the movies using TMDB's API.
+
+## Part 3 - MySQL Database
+Applying an E.T.L process from previously saved movie data. Specifically, I create a new MySQL database after preparing the data for a relational database. After that, I export database to a .sql file using MySQL Workbench.
+
+## Part 4 - Hypothesis Testing
+
 
 Please direct all communications to Henry Tsai at hawkeyedatatsai@gmail.com
